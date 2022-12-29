@@ -14,9 +14,13 @@
 
 ---
 
-#### Compile：编译
+#### Compile：综合
 
 ![2](README.assets/2.png)
+
+双击 / 右键运行。
+
+#### Place & Route：布线
 
 双击 / 右键运行。
 
@@ -28,8 +32,15 @@
 
 ![4](README.assets/4.png)
 
+#### ToolBar：工具栏
+
+![6](README.assets/6.png)
+
 #### Coding：编辑
 
 VSCode + Dogital IDE：主用于编写代码（关键字提示 & 代码格式化）
 
 ![5](README.assets/5.png)
+
+#### 
+
