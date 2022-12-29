@@ -11,13 +11,13 @@ When you meet error code `PR2017`. Do what is shown below.(Just enable correspon
 Demo project for drive LED and on board led.
 The related LED tutorial can be found at <https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-Doc/examples.html>
 
-<img src="./.assets/blink.gif" alt="led">
+<img src="README.assets/blink.gif" alt="led">
 
 ## lcd_led
 
 Demo project for drive RGB LCD and on board led.
 
-![lcd](./.assets/lcd_led.jpg)
+![lcd](README.assets/lcd_led.jpg)
 
 ## picotiny
 
@@ -28,7 +28,7 @@ See [README.md](picotiny/README.md) for detailed description.
 - Visit https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/examples/picorv/picorv.html to quick run this example
 - 中文访问 https://wiki.sipeed.com/hardware/zh/tang/Tang-Nano-9K/examples/picorv/picorv.html 来快速使用
 
-![picorv](./.assets/picorv.jpg)
+![picorv](README.assets/picorv.jpg)
 
 ## spi_lcd
 
@@ -36,4 +36,4 @@ This is an example to drive the 1.14 inch lcd screen which can connect with this
 
 Be sure match board with screen in the same order
 
-![spi_lcd](./.assets/spi_lcd.jpg)
+![spi_lcd](README.assets/spi_lcd.jpg)
