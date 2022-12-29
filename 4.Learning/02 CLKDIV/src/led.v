@@ -1,7 +1,7 @@
 /* Crystal oscillator frequency is 27MHz, clock division coefficient is 2
  * so it takes 1s to count from 0 to 13499999 ( 13.5MHz / 2 = 6.75MHz ) */
 
-`define USE_MODULE_CLKDIV
+//`define USE_MODULE_CLKDIV
 
 module led(
         input clk_in, // sys clk

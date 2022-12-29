@@ -4,7 +4,7 @@
 
 ![1](README.assets/1.png)
 
-此处我把把保存路径核文件名改为 `clkdiv`，点击 OK 按钮生成文件。
+此处我把保存路径核文件名改为 `clkdiv`，点击 OK 按钮生成文件。
 
 ![3](README.assets/3.png)
 
