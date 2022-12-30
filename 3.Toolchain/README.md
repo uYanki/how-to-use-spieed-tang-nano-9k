@@ -2,9 +2,9 @@
 
 下载 [教育版][http://www.gowinsemi.com.cn/faq.aspx]（不需要 `license` ），默认安装。
 
-（我的版本： `Gowin_V1.9.8.07_Education_win.exe` ）
+下载 Programmer 解压并替换掉 Gowin 原先的 Programmer 即可。
 
-把 Programmer 解压并替换掉 Gowin 原先的 Programmer 即可。
+![image-20221230222743785](README.assets/image-20221230222743785.png)
 
 ----
 
@@ -45,5 +45,7 @@ VSCode + Dogital IDE：主用于编写代码（关键字提示 & 代码格式化）
 #### 
 
 
+
+[http://www.gowinsemi.com.cn/faq.aspx]: 
 
 [http://www.gowinsemi.com.cn/faq.aspx]: 
