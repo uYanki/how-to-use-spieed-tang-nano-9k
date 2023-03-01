@@ -11,8 +11,7 @@ module led(
     reg [23:0] counter;
 
     /* clock rising edge or button falling edge */
-    always @(posedge clk_in or negedge btn_rst)
-    begin
+    always @(posedge clk_in or negedge btn_rst) begin
         /* ① reset button is pressed
          * ② counter reaches target value */
         if((!btn_rst) || (counter == `target))
@@ -23,8 +22,7 @@ module led(
     end
 
     /* clock rising edge or button falling edge */
-    always @(posedge clk_in or negedge btn_rst)
-    begin
+    always @(posedge clk_in or negedge btn_rst) begin
         /* reset button is pressed */
         if(!btn_rst)
             led <= 6'b111110;

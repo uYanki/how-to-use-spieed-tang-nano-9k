@@ -42,10 +42,3 @@ VSCode + Dogital IDE：主用于编写代码（关键字提示 & 代码格式化）
 
 ![5](README.assets/5.png)
 
-#### 
-
-
-
-[http://www.gowinsemi.com.cn/faq.aspx]: 
-
-[http://www.gowinsemi.com.cn/faq.aspx]: 
